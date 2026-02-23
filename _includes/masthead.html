@@ -5,18 +5,21 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="https://yitianshi.github.io/" target="_self">
-              <img class="svg" src="/images/en.svg" width="20pt"> 
-              English
-            </a>
-          </li>
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="https://yitianshi.github.io/zh/" target="_self">
-              <img class="svg" src="/images/cn.svg" width="20pt"> 
-              中文
-            </a>
-          </li>
+          {% if is_zh_page == '/zh/' %}
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+              <a href="https://yitianshi.github.io/" target="_self">
+                <img class="svg" src="/images/en.svg" width="20pt"> 
+                English
+              </a>
+            </li>
+          {% else %}
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+              <a href="https://yitianshi.github.io/zh/" target="_self">
+                <img class="svg" src="/images/cn.svg" width="20pt"> 
+                中文
+              </a>
+            </li>
+          {% endif %}
           {% if is_zh_page == '/zh/' %}
             {% assign nav_links = site.data.navigation_ch.main %}
           {% else %}

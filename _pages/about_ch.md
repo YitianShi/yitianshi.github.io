@@ -1,10 +1,10 @@
 ---
-permalink: /zh/
+permalink: /ch/
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /zh-about/
+  - /ch-about/
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
