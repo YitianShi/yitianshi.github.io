@@ -19,7 +19,7 @@ redirect_from:
 
 I am **Yitian Shi**, M. Sc. Research Associate at the [Institute for Material Handling and Logistics (IFL)](https://www.ifl.kit.edu/english/index.php), [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/).
 
-My research interests include **reinforcement learning for robotics**, robotic grasping, and robotic manipulation systems.
+My research interests include robotic grasp learning, robotic manipulation systems and uncertainty estimation.
 
 
 <span class='anchor' id='-education'></span>
