@@ -1,11 +1,11 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      {% assign is_zh_page = page.url | slice: 0, 4 %}
+      {% assign is_ch_page = page.url | slice: 0, 4 %}
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          {% if is_zh_page == '/zh/' %}
+          {% if is_ch_page == '/ch/' %}
             <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
               <a href="https://yitianshi.github.io/" target="_self">
                 <img class="svg" src="/images/en.svg" width="20pt"> 
@@ -14,13 +14,13 @@
             </li>
           {% else %}
             <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-              <a href="https://yitianshi.github.io/zh/" target="_self">
+              <a href="https://yitianshi.github.io/ch/" target="_self">
                 <img class="svg" src="/images/cn.svg" width="20pt"> 
                 中文
               </a>
             </li>
           {% endif %}
-          {% if is_zh_page == '/zh/' %}
+          {% if is_ch_page == '/ch/' %}
             {% assign nav_links = site.data.navigation_ch.main %}
           {% else %}
             {% assign nav_links = site.data.navigation.main %}
