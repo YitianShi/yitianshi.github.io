@@ -1,6 +1,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+      {% assign is_zh_page = page.url | slice: 0, 4 %}
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
@@ -16,15 +17,14 @@
               中文
             </a>
           </li>
-          {% if page.url contains '/zh/' %}
-            {% for link in site.data.navigation_zh.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
+          {% if is_zh_page == '/zh/' %}
+            {% assign nav_links = site.data.navigation_ch.main %}
           {% else %}
-            {% for link in site.data.navigation.main %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endfor %}
+            {% assign nav_links = site.data.navigation.main %}
           {% endif %}
+          {% for link in nav_links %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

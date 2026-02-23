@@ -107,68 +107,15 @@ redirect_from:
 </div>
 </div>
 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-- **Diffusion Models for Robotic Manipulation: A Survey**
-
-  R Wolf, **Y Shi**, S Liu, R Rayyes
-
-  *Frontiers in Robotics and AI*
-  [[链接]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
-</div>
-</div>
-
-- **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
-
-  JA Gaus, L Schneider, **Y Shi**, J Lee, R Rayyes, R Triebel
-
-  *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[链接]](https://arxiv.org/abs/2509.18786)
-
-- **Mica: Multi-agent industrial coordination assistant**
-
-  D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
-
-  *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-
-  [[链接]](https://arxiv.org/abs/2509.15237)
-
-- **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
-
-  F Bail, J Baumgärtner, F Erlenbusch, A Ernst, M Poyer, E Blum, **Y Shi**, et al.
-
-  *Procedia CIRP*
-  [[链接]](https://www.sciencedirect.com/science/article/pii/S221282712500633X)
-
-- **A Knowledge-Based Intralogistic System for a Circular Factory**
-
-  JF Klein, R Wolf, A Ernst, **Y Shi**, P Schumacher, RB Thapa, R Rayyes, et al.
-
-  *Logistics Journal: Proceedings*, 2025
-  [[链接]](https://proc.logistics-journal.de/article/view/1194)
-
 ## 工作坊 (Workshop) 论文
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RSS_best_paper_award.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects**
-
   **Y Shi**, AV Ngo, R Rayyes
-
   *RSS 2024 Workshop on "Open-Set Robot Perception in the Wild"* (**最佳论文奖**)
   [[链接]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf)
 
-
 </div>
 </div>
-
-- **Grasp the Invisibility by Vision-Language guided Active View Planning**
-
-  **Y Shi**, D Wen, E Welte, K Peng, R Stiefelhagen, R Rayyes
-
-  *ICRA 2025 Workshop on "Language and Semantics of Task and Motion Planning"*
-  [[链接]](https://dyalab.mines.edu/2025/icra-workshop/2.pdf)
