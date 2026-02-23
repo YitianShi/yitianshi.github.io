@@ -26,6 +26,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 # 🎓 Education
 
+- **Ph.D. Candidate**, Institute for Material Handling and Logistics (IFL), Karlsruhe Institute of Technology (KIT) (10/2023 - Present)
 - **M. Sc. Electromobility (Autonomous and Connected Driving)**, University of Stuttgart (10/2020 - 04/2023)
 - **B. Sc. Mechanical Engineering (Sino-German Program)**, Hochschule Furtwangen, Villingen-Schwenningen (10/2019 - 07/2020)
 - **B. Sc. Mechanical Engineering**, University of Shanghai for Science and Technology (USST) (09/2016 - 07/2020)
@@ -41,23 +42,14 @@ My research interests include robotic grasp learning, robotic manipulation syste
 - **04/2022 - 10/2022**: Research Assistant, Institute for Signal Processing and System Theory (ISS), University of Stuttgart
   - *Thesis title*: A Bayesian Approach for Unsupervised Domain Adaptation in 2D Object Detection
 - **04/2022 - 10/2022**: Research Assistant, Research Institute for Automotive Engineering and Vehicle Engines Stuttgart (FKFS)
-- **02/2019 - 07/2019**: Mechanical Engineer, Cargotec Industries (China) Co., Ltd.
 
 
 <span class='anchor' id='-teaching'></span>
 
 # 🏫 Teaching
 
-- Machine Learning for Robotic Systems 1
-
-
-<span class='anchor' id='-contact'></span>
-
-# 📧 Contact
-
-- **Email**: yitian.shi@kit.edu
-- **Phone**: +49 721 608-48612
-- **Office**: Room 1.15, Gotthard-Franz Str. 87, 76131 Karlsruhe, Germany
+- Machine Learning for Robotic Systems 1&2
+- Praktikum: Machine Learning for Robotics
 
 <span class='anchor' id='-publications'></span>
 
