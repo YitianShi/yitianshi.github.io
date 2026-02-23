@@ -62,7 +62,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 ## Selected publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra26.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation**
@@ -75,7 +75,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra25.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter**
 
@@ -86,7 +86,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/iros25.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iros25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility**
 
@@ -97,7 +97,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Uncertainty-driven Exploration Strategies for Online Grasp Learning**
@@ -110,7 +110,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Diffusion Models for Robotic Manipulation: A Survey**
 
@@ -152,7 +152,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 ## Workshop papers
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/RSS_best_paper_award.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/RSS_best_paper_award.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects**
