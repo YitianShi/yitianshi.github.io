@@ -100,7 +100,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Uncertainty-driven Exploration Strategies for Online Grasp Learning**
