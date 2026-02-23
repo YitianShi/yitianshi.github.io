@@ -42,7 +42,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 # 💼 Professional Experience
 
 - **10/2023 - Present**: Research Associate, Artificial Intelligence & Robotics, Institute for Material Handling and Logistics (IFL), KIT
-- **11/2022 - 04/2023**: Research Assistant, [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/), Renningen
+- **11/2022 - 04/2023**: Research Assistant, Bosch Center for Artificial Intelligence (BCAI), Renningen
   - *Thesis title*: Uncertainty-driven exploration strategies for online learning in robotic grasping
 - **04/2022 - 10/2022**: Research Assistant, Institute for Signal Processing and System Theory (ISS), University of Stuttgart
   - *Thesis title*: A Bayesian Approach for Unsupervised Domain Adaptation in 2D Object Detection
