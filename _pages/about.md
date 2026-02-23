@@ -78,61 +78,56 @@ My research interests include **reinforcement learning for robotics**, robotic g
 - **Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**
 
   D Wen, L Qi, K Peng, K Yang, F Teng, A Luo, J Fu, Y Chen, R Liu, **Y Shi**, et al.
-  *2026 International Conference on Learning Representations (ICLR)* (2025)
+  *2026 International Conference on Learning Representations (ICLR)*
 
 - **Mica: Multi-agent industrial coordination assistant**
 
   D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
-  *2026 IEEE International Conference on Robotics and Automation (ICRA)* (2025)
+  *2026 IEEE International Conference on Robotics and Automation (ICRA)*
 
 ## 2025
 
 - **Diffusion Models for Robotic Manipulation: A Survey**
 
   R Wolf, **Y Shi**, S Liu, R Rayyes
-  *Frontiers in Robotics and AI* (35 citations, 2025)
+  *Frontiers in Robotics and AI*
   [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/)
 
 - **VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility**
 
   **Y Shi**, D Wen, G Chen, E Welte, S Liu, K Peng, R Stiefelhagen, R Rayyes
-  *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* (7 citations, 2025)
+  *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
 
 - **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
 
   F Bail, J Baumgärtner, F Erlenbusch, A Ernst, M Poyer, E Blum, **Y Shi**, et al.
-  *Procedia CIRP*, 134, 1083-1088 (1 citation, 2025)
+  *Procedia CIRP*
 
 - **A Knowledge-Based Intralogistic System for a Circular Factory**
 
   JF Klein, R Wolf, A Ernst, **Y Shi**, P Schumacher, RB Thapa, R Rayyes, et al.
   *Logistics Journal: Proceedings*, 2025
 
-- **Supplementary Proofs to "vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter"**
-
-  **Y Shi**, R Rayyes
-  2025
-
 - **Grasp the Invisibility by Vision-Language guided Active View Planning**
 
   **Y Shi**, D Wen, E Welte, K Peng, R Stiefelhagen, R Rayyes
-  *ICRA 2025 Workshop on "Language and Semantics of Task and Motion Planning"*
 
-## 2024
+  *ICRA 2025 Workshop on "Language and Semantics of Task and Motion Planning"*
 
 - **vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter**
 
   **Y Shi**, E Welte, M Gilles, R Rayyes
-  *2025 IEEE International Conference on Robotics and Automation (ICRA)* (7 citations, 2024)
+
+  *2025 IEEE International Conference on Robotics and Automation (ICRA)*
 
 - **Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects**
 
   **Y Shi**, AV Ngo, R Rayyes
-  *RSS 2024 Workshop on "Open-Set Robot Perception in the Wild"* (**Best Paper Award**)
 
-## 2023
+  *RSS 2024 Workshop on "Open-Set Robot Perception in the Wild"* (**Best Paper Award**)
 
 - **Uncertainty-driven Exploration Strategies for Online Grasp Learning**
 
   **Y Shi**, P Schillinger, M Gabriel, A Kuss, Z Feldman, H Ziesche, NA Vien
-  *2024 IEEE International Conference on Robotics and Automation (ICRA)* (5 citations, 2023)
+
+  *2024 IEEE International Conference on Robotics and Automation (ICRA)*
