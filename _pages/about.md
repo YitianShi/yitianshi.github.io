@@ -118,6 +118,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 - **Diffusion Models for Robotic Manipulation: A Survey**
 
   R Wolf, **Y Shi**, S Liu, R Rayyes
+
   *Frontiers in Robotics and AI*
   [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
 </div>
@@ -129,12 +130,13 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
   [[Link]](https://arxiv.org/abs/2509.18786)
-  
+
 - **Mica: Multi-agent industrial coordination assistant**
 
   D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
+
   [[Link]](https://arxiv.org/abs/2509.15237)
 
 - **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
@@ -153,12 +155,19 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 ## Workshop papers
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/RSS_best_paper_award.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - **Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects**
 
   **Y Shi**, AV Ngo, R Rayyes
 
   *RSS 2024 Workshop on "Open-Set Robot Perception in the Wild"* (**Best Paper Award**)
   [[Link]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf)
+
+
+</div>
+</div>
 
 - **Grasp the Invisibility by Vision-Language guided Active View Planning**
 
