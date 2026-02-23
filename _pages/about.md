@@ -65,7 +65,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 ## Selected publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/icra26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation**
