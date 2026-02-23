@@ -141,7 +141,6 @@ My research interests include robotic grasp learning, robotic manipulation syste
   D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-
   [[Link]](https://arxiv.org/abs/2509.15237)
 
 - **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
