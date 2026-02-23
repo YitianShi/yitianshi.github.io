@@ -65,7 +65,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 ## Selected publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/icra26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation**
@@ -85,6 +85,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   *2025 IEEE International Conference on Robotics and Automation (ICRA)*
   [[Link]](https://ieeexplore.ieee.org/document/11127888)
 
+
 - **VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility**
 
   **Y Shi**, D Wen, G Chen, E Welte, S Liu, K Peng, R Stiefelhagen, R Rayyes
@@ -92,12 +93,18 @@ My research interests include robotic grasp learning, robotic manipulation syste
   *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
   [[Link]](https://ieeexplore.ieee.org/document/11246329)
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - **Uncertainty-driven Exploration Strategies for Online Grasp Learning**
 
   **Y Shi**, P Schillinger, M Gabriel, A Kuss, Z Feldman, H Ziesche, NA Vien
 
   *2024 IEEE International Conference on Robotics and Automation (ICRA)*
   [[Link]](https://ieeexplore.ieee.org/document/10610056)
+
+</div>
+</div>
 
 - **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
 
