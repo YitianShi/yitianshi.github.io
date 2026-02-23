@@ -113,13 +113,6 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
-- **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
-
-  JA Gaus, L Schneider, **Y Shi**, J Lee, R Rayyes, R Triebel
-
-  *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[Link]](https://arxiv.org/abs/2509.18786)
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Diffusion Models for Robotic Manipulation: A Survey**
@@ -130,6 +123,13 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
+- **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
+
+  JA Gaus, L Schneider, **Y Shi**, J Lee, R Rayyes, R Triebel
+
+  *2026 IEEE International Conference on Robotics and Automation (ICRA)*
+  [[Link]](https://arxiv.org/abs/2509.18786)
+  
 - **Mica: Multi-agent industrial coordination assistant**
 
   D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
