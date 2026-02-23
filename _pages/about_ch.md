@@ -67,7 +67,7 @@ redirect_from:
 
 ## 精选论文
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/icra26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation**
@@ -78,7 +78,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra25.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/icra25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter**
   **Y Shi**, E Welte, M Gilles, R Rayyes
@@ -87,7 +87,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/iros25.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/iros25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility**
   **Y Shi**, D Wen, G Chen, E Welte, S Liu, K Peng, R Stiefelhagen, R Rayyes
@@ -96,7 +96,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/icra24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Uncertainty-driven Exploration Strategies for Online Grasp Learning**
@@ -109,7 +109,7 @@ redirect_from:
 
 ## 工作坊 (Workshop) 论文
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/RSS_best_paper_award.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/RSS_best_paper_award.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects**
