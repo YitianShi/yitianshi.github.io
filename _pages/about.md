@@ -78,20 +78,27 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter**
 
   **Y Shi**, E Welte, M Gilles, R Rayyes
 
   *2025 IEEE International Conference on Robotics and Automation (ICRA)*
   [[Link]](https://ieeexplore.ieee.org/document/11127888)
+</div>
+</div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iros25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - **VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility**
 
   **Y Shi**, D Wen, G Chen, E Welte, S Liu, K Peng, R Stiefelhagen, R Rayyes
 
   *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
   [[Link]](https://ieeexplore.ieee.org/document/11246329)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icra24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
