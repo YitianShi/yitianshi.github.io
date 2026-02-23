@@ -120,12 +120,15 @@ My research interests include robotic grasp learning, robotic manipulation syste
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
   [[Link]](https://arxiv.org/abs/2509.18786)
 
-- **Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- **Diffusion Models for Robotic Manipulation: A Survey**
 
-  D Wen, L Qi, K Peng, K Yang, F Teng, A Luo, J Fu, Y Chen, R Liu, **Y Shi**, et al.
-
-  *2026 International Conference on Learning Representations (ICLR)*
-  [[Link]](https://arxiv.org/abs/2506.02845)
+  R Wolf, **Y Shi**, S Liu, R Rayyes
+  *Frontiers in Robotics and AI*
+  [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
+</div>
+</div>
 
 - **Mica: Multi-agent industrial coordination assistant**
 
@@ -133,12 +136,6 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
   [[Link]](https://arxiv.org/abs/2509.15237)
-
-- **Diffusion Models for Robotic Manipulation: A Survey**
-
-  R Wolf, **Y Shi**, S Liu, R Rayyes
-  *Frontiers in Robotics and AI*
-  [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
 
 - **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
 
