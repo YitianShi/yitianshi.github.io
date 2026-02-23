@@ -56,7 +56,15 @@ My research interests include robotic grasp learning, robotic manipulation syste
 - Machine Learning for Robotic Systems 1&2
 - Praktikum: Machine Learning for Robotics
 
+
+<span class='anchor' id='-project'></span>
+
+# ⚙️ Project
+
+- SFB-1574 Circular Factory [[Link]](https://www.sfb1574.kit.edu/english/355.php) 
+
 <span class='anchor' id='-publications'></span>
+
 
 # 📖 Publications
 
