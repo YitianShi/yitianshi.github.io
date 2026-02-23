@@ -21,6 +21,12 @@ I am **Yitian Shi**, M. Sc. Research Associate at the [Institute for Material Ha
 
 My research interests include robotic grasp learning, robotic manipulation systems and uncertainty estimation.
 
+<span class='anchor' id='-news'></span>
+
+# 🔥 News
+- *2026.02*: &nbsp; 3 papers accepted by ICRA 🎉🎉
+- *2026.02*: &nbsp; 1 co-authored paper accepted by ICLR 🎉🎉 
+- *2025.06*: &nbsp; 1 paper accepted by IROS 🎉🎉
 
 <span class='anchor' id='-education'></span>
 
@@ -29,10 +35,9 @@ My research interests include robotic grasp learning, robotic manipulation syste
 - **Ph.D. Candidate**, Institute for Material Handling and Logistics (IFL), Karlsruhe Institute of Technology (KIT) (10/2023 - Present)
 - **M. Sc. Electromobility (Autonomous and Connected Driving)**, University of Stuttgart (10/2020 - 04/2023)
 - **B. Sc. Mechanical Engineering (Sino-German Program)**, Hochschule Furtwangen, Villingen-Schwenningen (10/2019 - 07/2020)
-- **B. Sc. Mechanical Engineering**, University of Shanghai for Science and Technology (USST) (09/2016 - 07/2020)
+- **B. Sc. Mechanical Engineering**, University of Shanghai for Science and Technology (USST) (09/2016 - 07/2020) (*Award: College Graduate Excellence Award of Shanghai, 2020*)
 
 
-<span class='anchor' id='-experience'></span>
 
 # 💼 Professional Experience
 
