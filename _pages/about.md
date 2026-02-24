@@ -28,12 +28,12 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/icra24.gif" alt="Offline-to-online Grasp Learning" title="Offline-to-online Grasp Learning" style="max-width: 50%; height: auto;">
+  <img src="/images/icra24.gif" alt="Offline-to-online Grasp Learning" title="Offline-to-online Grasp Learning" style="max-width: 40%; height: auto;">
   <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=Rr2QwIA2J4s">Offline-to-online Grasp Learning (ICRA24)</a></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 40%; height: auto;">
+  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 45%; height: auto;">
   <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://github.com/YitianShi/MetaIsaacGrasp">MetaIsaacGrasp: Isaac Lab-based Simulation for Grasping</a></p>
 </div>
 

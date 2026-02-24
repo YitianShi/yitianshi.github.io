@@ -20,6 +20,22 @@ redirect_from:
 
 我的研究兴趣主要集中在**机器人抓取学习**、**机器人操纵系统**以及**不确定性估计**。
 
+# 🤖 研究亮点
+<div style="text-align: center;">
+  <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=mmQ4Ps8b3DI">Uncertainty-aware 6-DoF Grasping (ICRA25)</a></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/icra24.gif" alt="Offline-to-online Grasp Learning" title="Offline-to-online Grasp Learning" style="max-width: 40%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=Rr2QwIA2J4s">Offline-to-online Grasp Learning (ICRA24)</a></p>
+</div>
+
+<div style="text-align: center;">
+  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 45%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://github.com/YitianShi/MetaIsaacGrasp">MetaIsaacGrasp: Isaac Lab-based Simulation for Grasping</a></p>
+</div>
+
 <span class='anchor' id='-news'></span>
 
 # 🔥 新闻动态
