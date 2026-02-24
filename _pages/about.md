@@ -23,13 +23,13 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 #  Highlights
 <div style="text-align: center;">
-  <img src="/images/banner.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
-  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;">vMF-Contact in Real World (ICRA25)</p>
+  <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;">Uncertainty-aware 6-DoF Grasping (ICRA25)</p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/banner.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
-  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;">vMF-Contact in Real World (ICRA25)</p>
+  <img src="/images/icra24.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;">Offline-to-online Grasp Learning (ICRA24)</p>
 </div>
 
 <span class='anchor' id='-news'></span>
