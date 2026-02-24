@@ -29,7 +29,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 <div style="text-align: center;">
   <img src="/images/iros25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">
-  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=HsJCMzc-Zas">Target-oriented Active View for Grasping (ICRA25)</a></p>
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=HsJCMzc-Zas">Target-oriented Active View for Grasping (IROS25)</a></p>
 </div>
 
 <div style="text-align: center;">
@@ -200,6 +200,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
   *ICRA 2025 Workshop on "Language and Semantics of Task and Motion Planning"*
   [[Link]](https://dyalab.mines.edu/2025/icra-workshop/2.pdf)
+
 
 
 
