@@ -28,7 +28,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/icra24.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
+  <img src="/images/icra24.gif" alt="Real world grasping with vMF-Contact from ICRA25" width="80%" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
   <p style="margin-top: 10px; font-size: 16px; font-weight: bold;">Offline-to-online Grasp Learning (ICRA24)</p>
 </div>
 
