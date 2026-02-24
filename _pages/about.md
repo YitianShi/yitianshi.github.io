@@ -21,20 +21,20 @@ I am **Yitian Shi** (施逸天), PhD candidate at the [Institute for Material Ha
 
 My research interests include robotic grasp learning, robotic manipulation systems and uncertainty estimation.
 
-#  Highlights
+# 🤖 Highlights
 <div style="text-align: center;">
-  <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 100%; height: auto;">
+  <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">
   <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=mmQ4Ps8b3DI">Uncertainty-aware 6-DoF Grasping (ICRA25)</a></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 60%; height: auto;">
-  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://github.com/YitianShi/MetaIsaacGrasp">MetaIsaacGrasp: Isaac Lab based Simulation for Grasping</a></p>
+  <img src="/images/icra24.gif" alt="Offline-to-online Grasp Learning" title="Offline-to-online Grasp Learning" style="max-width: 50%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=Rr2QwIA2J4s">Offline-to-online Grasp Learning (ICRA24)</a></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/icra24.gif" alt="Offline-to-online Grasp Learning" title="Offline-to-online Grasp Learning" style="max-width: 70%; height: auto;">
-  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=Rr2QwIA2J4s">Offline-to-online Grasp Learning (ICRA24)</a></p>
+  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 60%; height: auto;">
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://github.com/YitianShi/MetaIsaacGrasp">MetaIsaacGrasp: Isaac Lab-based Simulation for Grasping</a></p>
 </div>
 
 <span class='anchor' id='-news'></span>
