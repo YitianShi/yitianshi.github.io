@@ -28,7 +28,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 70%; height: auto;">
+  <img src="/images/isaac.gif" alt="MetaIsaacGrasp Simulation" title="MetaIsaacGrasp" style="max-width: 60%; height: auto;">
   <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://github.com/YitianShi/MetaIsaacGrasp">MetaIsaacGrasp: Isaac Lab based Simulation for Grasping</a></p>
 </div>
 
