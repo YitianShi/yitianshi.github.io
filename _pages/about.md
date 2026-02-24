@@ -45,6 +45,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2026.02*: &nbsp; Oral presentation in 2nd German Robotics Conference (GRC) (20/244) 🎉🎉
 - *2026.02*: &nbsp; 3 papers accepted by ICRA 🎉🎉
 - *2026.02*: &nbsp; 1 co-authored paper accepted by ICLR 🎉🎉 
 - *2025.06*: &nbsp; 1 paper accepted by IROS 🎉🎉
@@ -149,6 +150,13 @@ My research interests include robotic grasp learning, robotic manipulation syste
   [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
 </div>
 </div>
+
+- **Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**
+
+  D Wen, L Qi, K Peng, K Yang, F Teng, A Luo, J Fu, Y Chen, R Liu, **Y Shi**, et al.
+
+  *2026 International Conference on Learning Representations (ICLR)*
+  [[Link]](https://arxiv.org/pdf/2506.02845)
 
 - **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
 

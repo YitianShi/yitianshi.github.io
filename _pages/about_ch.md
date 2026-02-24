@@ -44,6 +44,7 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 新闻动态
+- *2026.02*: &nbsp; 1 篇论文获得德国机器人会议(GRC) 口头报告(20/244) 🎉🎉
 - *2026.02*: &nbsp; 3 篇论文被 ICRA 录用 🎉🎉
 - *2026.02*: &nbsp; 1 篇合作论文被 ICLR 录用 🎉🎉 
 - *2025.06*: &nbsp; 1 篇论文被 IROS 录用 🎉🎉
