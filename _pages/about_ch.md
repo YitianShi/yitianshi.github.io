@@ -28,7 +28,7 @@ redirect_from:
 
 <div style="text-align: center;">
   <img src="/images/iros25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">
-  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=mmQ4Ps8b3DI">Target-oriented Active View for Grasping (ICRA25)</a></p>
+  <p style="margin-top: 10px; font-size: 16px; font-weight: bold;"><a href="https://www.youtube.com/watch?v=mmQ4Ps8b3DI">Target-oriented Active View for Grasping (IROS25)</a></p>
 </div>
 
 <div style="text-align: center;">
@@ -139,4 +139,5 @@ redirect_from:
   [[链接]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf)
 
 </div>
+
 </div>
