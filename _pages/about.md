@@ -140,6 +140,19 @@ My research interests include robotic grasp learning, robotic manipulation syste
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation**
+
+  E, Welte, **Y Shi**, R Wolf, M Gilles, R Rayyes
+
+  *under review*
+  [[Link]](https://arxiv.org/abs/2602.22056)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/survey.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 - **Diffusion Models for Robotic Manipulation: A Survey**
