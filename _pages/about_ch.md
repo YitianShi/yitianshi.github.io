@@ -129,7 +129,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iros26e.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation**
