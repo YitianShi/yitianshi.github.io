@@ -135,24 +135,28 @@
 .author__citation-badge {
   display: inline-flex;
   align-items: center;
-  gap: 0.2em;
-  padding: 0.2em 0.45em;
-  border: 1px solid $border-color;
-  border-radius: 999px;
-  background: $lighter-gray;
-  color: $link-color;
+  gap: 0.12em;
+  margin-left: 0.1em;
+  color: #4285f4;
   font-family: $sans-serif;
-  font-size: 0.55em;
-  font-weight: normal;
+  font-size: 0.58em;
+  font-weight: 600;
   line-height: 1;
   text-decoration: none;
   white-space: nowrap;
 
+  .ai {
+    font-size: 1.15em;
+  }
+
   &:hover {
-    color: $link-color-hover;
-    border-color: $light-gray;
+    color: mix(#000, #4285f4, 20%);
     text-decoration: none;
   }
+}
+
+.author__citation-count {
+  color: $gray;
 }
 
 .sidebar .author__name {
