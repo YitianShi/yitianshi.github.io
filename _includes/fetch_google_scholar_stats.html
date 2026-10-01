@@ -6,14 +6,42 @@
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
+            var totalCitationElement = document.getElementById('total_cit')
+            if (totalCitationElement && data['citedby'] !== undefined) {
+                totalCitationElement.textContent = data['citedby']
+            }
+
+            var publications = data['publications'] || {}
+            var normalizeTitle = function (title) {
+                return (title || '')
+                    .toLowerCase()
+                    .replace(/[\u2010-\u2015]/g, '-')
+                    .replace(/[^a-z0-9]+/g, ' ')
+                    .trim()
+            }
+
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
-        });
+                var publication = paperId ? publications[paperId] : null
+
+                if (!publication) {
+                    var paperTitle = normalizeTitle(element.getAttribute('data-title'))
+                    Object.keys(publications).some(function (publicationId) {
+                        var candidate = publications[publicationId]
+                        if (normalizeTitle(candidate['bib'] && candidate['bib']['title']) === paperTitle) {
+                            publication = candidate
+                            return true
+                        }
+                        return false
+                    })
+                }
+
+                if (publication && publication['num_citations'] !== undefined) {
+                    var label = element.getAttribute('data-label') || 'Citations'
+                    element.textContent = '| ' + label + ': ' + publication['num_citations']
+                }
+            })
+        })
     })
 </script>

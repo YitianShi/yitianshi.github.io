@@ -21,6 +21,8 @@ I am **Yitian Shi** (施逸天), PhD candidate at the [Institute for Material Ha
 
 My research interests include robotic grasp learning, robotic manipulation systems and uncertainty estimation.
 
+My publications have received <a href="https://scholar.google.com/citations?user=DqU2TTEAAAAJ"><strong><span id="total_cit">...</span></strong> Google Scholar citations</a>.
+
 # 🤖 Highlights
 <div style="text-align: center;">
   <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">
@@ -45,9 +47,11 @@ My research interests include robotic grasp learning, robotic manipulation syste
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2026.10*: &nbsp; 1 co-authored paper accepted by IROS 2026 🎉🎉
+- *2026.06*: &nbsp; Our paper won the **Best Poster Award** at the ICRA 2026 Workshop on *Learning and Representations for Active Perception in Manipulation* 🎉🎉
 - *2026.02*: &nbsp; Oral presentation in 2nd German Robotics Conference (GRC) (20/244) 🎉🎉
 - *2026.02*: &nbsp; 3 papers accepted by ICRA 🎉🎉
-- *2026.02*: &nbsp; 1 co-authored paper accepted by ICLR 🎉🎉 
+- *2026.02*: &nbsp; 1 co-authored paper accepted by ICLR 🎉🎉
 - *2025.06*: &nbsp; 1 paper accepted by IROS 🎉🎉
 
 <span class='anchor' id='-education'></span>
@@ -100,7 +104,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   **Y Shi**, Z Guo, R Wolf, E Welte, R Rayyes
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[Link]](https://arxiv.org/abs/2509.16871)
+  [[Link]](https://arxiv.org/abs/2509.16871) <strong><span class='show_paper_citations' data-title='HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation'></span></strong>
 
 </div>
 </div>
@@ -112,7 +116,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   **Y Shi**, E Welte, M Gilles, R Rayyes
 
   *2025 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[Link]](https://ieeexplore.ieee.org/document/11127888)
+  [[Link]](https://ieeexplore.ieee.org/document/11127888) <strong><span class='show_paper_citations' data-title='vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter'></span></strong>
 </div>
 </div>
 
@@ -123,7 +127,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   **Y Shi**, D Wen, G Chen, E Welte, S Liu, K Peng, R Stiefelhagen, R Rayyes
 
   *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
-  [[Link]](https://ieeexplore.ieee.org/document/11246329)
+  [[Link]](https://ieeexplore.ieee.org/document/11246329) <strong><span class='show_paper_citations' data-title='VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility'></span></strong>
 </div>
 </div>
 
@@ -135,7 +139,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   **Y Shi**, P Schillinger, M Gabriel, A Kuss, Z Feldman, H Ziesche, NA Vien
 
   *2024 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[Link]](https://ieeexplore.ieee.org/document/10610056)
+  [[Link]](https://ieeexplore.ieee.org/document/10610056) <strong><span class='show_paper_citations' data-title='Uncertainty-driven Exploration Strategies for Online Grasp Learning'></span></strong>
 
 </div>
 </div>
@@ -145,10 +149,10 @@ My research interests include robotic grasp learning, robotic manipulation syste
 
 - **FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation**
 
-  E, Welte, **Y Shi**, R Wolf, M Gilles, R Rayyes
+  E Welte, **Y Shi**, R Wolf, M Gilles, R Rayyes
 
-  *under review*
-  [[Link]](https://arxiv.org/abs/2602.22056)
+  *2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+  [[Link]](https://arxiv.org/abs/2602.22056) <strong><span class='show_paper_citations' data-title='FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation'></span></strong>
 
 </div>
 </div>
@@ -160,7 +164,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   R Wolf, **Y Shi**, S Liu, R Rayyes
 
   *Frontiers in Robotics and AI*
-  [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
+  [[Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full) <strong><span class='show_paper_citations' data-title='Diffusion Models for Robotic Manipulation: A Survey'></span></strong>
 </div>
 </div>
 
@@ -169,37 +173,50 @@ My research interests include robotic grasp learning, robotic manipulation syste
   D Wen, L Qi, K Peng, K Yang, F Teng, A Luo, J Fu, Y Chen, R Liu, **Y Shi**, et al.
 
   *2026 International Conference on Learning Representations (ICLR)*
-  [[Link]](https://arxiv.org/pdf/2506.02845)
+  [[Link]](https://arxiv.org/pdf/2506.02845) <strong><span class='show_paper_citations' data-title='Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments'></span></strong>
 
 - **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
 
   JA Gaus, L Schneider, **Y Shi**, J Lee, R Rayyes, R Triebel
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[Link]](https://arxiv.org/abs/2509.18786)
+  [[Link]](https://arxiv.org/abs/2509.18786) <strong><span class='show_paper_citations' data-title='Human-Interpretable Uncertainty Explanations for Point Cloud Registration'></span></strong>
 
 - **Mica: Multi-agent industrial coordination assistant**
 
   D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[Link]](https://arxiv.org/abs/2509.15237)
+  [[Link]](https://arxiv.org/abs/2509.15237) <strong><span class='show_paper_citations' data-title='Mica: Multi-agent industrial coordination assistant'></span></strong>
 
 - **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
 
   F Bail, J Baumgärtner, F Erlenbusch, A Ernst, M Poyer, E Blum, **Y Shi**, et al.
 
   *Procedia CIRP*
-  [[Link]](https://www.sciencedirect.com/science/article/pii/S221282712500633X)
+  [[Link]](https://www.sciencedirect.com/science/article/pii/S221282712500633X) <strong><span class='show_paper_citations' data-title='A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions'></span></strong>
 
 - **A Knowledge-Based Intralogistic System for a Circular Factory**
 
   JF Klein, R Wolf, A Ernst, **Y Shi**, P Schumacher, RB Thapa, R Rayyes, et al.
 
   *Logistics Journal: Proceedings*, 2025
-  [[Link]](https://proc.logistics-journal.de/article/view/1194)
+  [[Link]](https://proc.logistics-journal.de/article/view/1194) <strong><span class='show_paper_citations' data-title='A Knowledge-Based Intralogistic System for a Circular Factory'></span></strong>
 
 ## Workshop papers
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/best_poster.png' alt="ICRA 2026 Workshop Best Poster Award certificate" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Multi-Skill Manipulation-Enhanced Mapping with Evidential Learning in Confined Environments**
+
+  **Y Shi**, N Dengler, J Mücke, S Pan, R Rayyes, M Bennewitz
+
+  *ICRA 2026 Workshop on "Act to Sense to Act Better: Learning and Representations for Active Perception in Manipulation"* (**Best Poster Award**)
+  [[Link]](https://openreview.net/pdf?id=lqLvPGM6NH) <strong><span class='show_paper_citations' data-title='Multi-Skill Manipulation-Enhanced Mapping with Evidential Learning in Confined Environments'></span></strong>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RSS_best_paper_award.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -209,7 +226,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   **Y Shi**, AV Ngo, R Rayyes
 
   *RSS 2024 Workshop on "Open-Set Robot Perception in the Wild"* (**Best Paper Award**)
-  [[Link]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf)
+  [[Link]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf) <strong><span class='show_paper_citations' data-title='Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects'></span></strong>
 
 
 </div>
@@ -220,7 +237,7 @@ My research interests include robotic grasp learning, robotic manipulation syste
   **Y Shi**, D Wen, E Welte, K Peng, R Stiefelhagen, R Rayyes
 
   *ICRA 2025 Workshop on "Language and Semantics of Task and Motion Planning"*
-  [[Link]](https://dyalab.mines.edu/2025/icra-workshop/2.pdf)
+  [[Link]](https://dyalab.mines.edu/2025/icra-workshop/2.pdf) <strong><span class='show_paper_citations' data-title='Grasp the Invisibility by Vision-Language guided Active View Planning'></span></strong>
 
 
 

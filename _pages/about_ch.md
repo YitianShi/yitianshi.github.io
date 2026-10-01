@@ -20,6 +20,8 @@ redirect_from:
 
 我的研究兴趣主要集中在**机器人抓取学习**、**机器人操纵系统**以及**不确定性估计**。
 
+我的论文已获得 <a href="https://scholar.google.com/citations?user=DqU2TTEAAAAJ">Google Scholar 引用 <strong><span id="total_cit">...</span></strong> 次</a>。
+
 # 🤖 研究亮点
 <div style="text-align: center;">
   <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">
@@ -44,9 +46,11 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 # 🔥 新闻动态
+- *2026.10*: &nbsp; 1 篇合作论文被 IROS 2026 录用 🎉🎉
+- *2026.06*: &nbsp; 论文获得 ICRA 2026 “机器人主动感知学习与表征”工作坊 **最佳海报奖** 🎉🎉
 - *2026.02*: &nbsp; 1 篇论文获得德国机器人会议(GRC) 口头报告(20/244) 🎉🎉
 - *2026.02*: &nbsp; 3 篇论文被 ICRA 录用 🎉🎉
-- *2026.02*: &nbsp; 1 篇合作论文被 ICLR 录用 🎉🎉 
+- *2026.02*: &nbsp; 1 篇合作论文被 ICLR 录用 🎉🎉
 - *2025.06*: &nbsp; 1 篇论文被 IROS 录用 🎉🎉
 
 <span class='anchor' id='-education'></span>
@@ -95,7 +99,7 @@ redirect_from:
 - **HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation**
   **Y Shi**, Z Guo, R Wolf, E Welte, R Rayyes
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[链接]](https://arxiv.org/abs/2509.16871)
+  [[链接]](https://arxiv.org/abs/2509.16871) <strong><span class='show_paper_citations' data-title='HOGraspFlow: Taxonomy-Aware Hand–Object Retargeting for Multi-Modal SE(3) Grasp Generation' data-label='引用'></span></strong>
 
 </div>
 </div>
@@ -105,7 +109,7 @@ redirect_from:
 - **vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter**
   **Y Shi**, E Welte, M Gilles, R Rayyes
   *2025 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[链接]](https://ieeexplore.ieee.org/document/11127888)
+  [[链接]](https://ieeexplore.ieee.org/document/11127888) <strong><span class='show_paper_citations' data-title='vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter' data-label='引用'></span></strong>
 </div>
 </div>
 
@@ -114,7 +118,7 @@ redirect_from:
 - **VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility**
   **Y Shi**, D Wen, G Chen, E Welte, S Liu, K Peng, R Stiefelhagen, R Rayyes
   *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
-  [[链接]](https://ieeexplore.ieee.org/document/11246329)
+  [[链接]](https://ieeexplore.ieee.org/document/11246329) <strong><span class='show_paper_citations' data-title='VISO-Grasp: Vision-Language Informed Spatial Object-centric 6-DoF Active View Planning and Grasping in Clutter and Invisibility' data-label='引用'></span></strong>
 </div>
 </div>
 
@@ -124,7 +128,7 @@ redirect_from:
 - **Uncertainty-driven Exploration Strategies for Online Grasp Learning**
   **Y Shi**, P Schillinger, M Gabriel, A Kuss, Z Feldman, H Ziesche, NA Vien
   *2024 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[链接]](https://ieeexplore.ieee.org/document/10610056)
+  [[链接]](https://ieeexplore.ieee.org/document/10610056) <strong><span class='show_paper_citations' data-title='Uncertainty-driven Exploration Strategies for Online Grasp Learning' data-label='引用'></span></strong>
 
 </div>
 </div>
@@ -134,10 +138,10 @@ redirect_from:
 
 - **FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation**
 
-  E, Welte, **Y Shi**, R Wolf, M Gilles, R Rayyes
+  E Welte, **Y Shi**, R Wolf, M Gilles, R Rayyes
 
-  *under review*
-  [[链接]](https://arxiv.org/abs/2602.22056)
+  *2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+  [[链接]](https://arxiv.org/abs/2602.22056) <strong><span class='show_paper_citations' data-title='FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation' data-label='引用'></span></strong>
 
 </div>
 </div>
@@ -149,7 +153,7 @@ redirect_from:
   R Wolf, **Y Shi**, S Liu, R Rayyes
 
   *Frontiers in Robotics and AI*
-  [[链接]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full)
+  [[链接]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2025.1606247/full) <strong><span class='show_paper_citations' data-title='Diffusion Models for Robotic Manipulation: A Survey' data-label='引用'></span></strong>
 </div>
 </div>
 
@@ -158,37 +162,50 @@ redirect_from:
   D Wen, L Qi, K Peng, K Yang, F Teng, A Luo, J Fu, Y Chen, R Liu, **Y Shi**, et al.
 
   *2026 International Conference on Learning Representations (ICLR)*
-  [[链接]](https://arxiv.org/pdf/2506.02845)
+  [[链接]](https://arxiv.org/pdf/2506.02845) <strong><span class='show_paper_citations' data-title='Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments' data-label='引用'></span></strong>
 
 - **Human-Interpretable Uncertainty Explanations for Point Cloud Registration**
 
   JA Gaus, L Schneider, **Y Shi**, J Lee, R Rayyes, R Triebel
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[链接]](https://arxiv.org/abs/2509.18786)
+  [[链接]](https://arxiv.org/abs/2509.18786) <strong><span class='show_paper_citations' data-title='Human-Interpretable Uncertainty Explanations for Point Cloud Registration' data-label='引用'></span></strong>
 
 - **Mica: Multi-agent industrial coordination assistant**
 
   D Wen, K Peng, J Zheng, Y Chen, **Y Shi**, J Wei, R Liu, K Yang, et al.
 
   *2026 IEEE International Conference on Robotics and Automation (ICRA)*
-  [[链接]](https://arxiv.org/abs/2509.15237)
+  [[链接]](https://arxiv.org/abs/2509.15237) <strong><span class='show_paper_citations' data-title='Mica: Multi-agent industrial coordination assistant' data-label='引用'></span></strong>
 
 - **A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions**
 
   F Bail, J Baumgärtner, F Erlenbusch, A Ernst, M Poyer, E Blum, **Y Shi**, et al.
 
   *Procedia CIRP*
-  [[链接]](https://www.sciencedirect.com/science/article/pii/S221282712500633X)
+  [[链接]](https://www.sciencedirect.com/science/article/pii/S221282712500633X) <strong><span class='show_paper_citations' data-title='A Control Architecture for Robust and Resilient Circular Factories under Uncertain Conditions' data-label='引用'></span></strong>
 
 - **A Knowledge-Based Intralogistic System for a Circular Factory**
 
   JF Klein, R Wolf, A Ernst, **Y Shi**, P Schumacher, RB Thapa, R Rayyes, et al.
 
   *Logistics Journal: Proceedings*, 2025
-  [[链接]](https://proc.logistics-journal.de/article/view/1194)
+  [[链接]](https://proc.logistics-journal.de/article/view/1194) <strong><span class='show_paper_citations' data-title='A Knowledge-Based Intralogistic System for a Circular Factory' data-label='引用'></span></strong>
 
 ## 工作坊 (Workshop) 论文
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/best_poster.png' alt="ICRA 2026 工作坊最佳海报奖证书" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Multi-Skill Manipulation-Enhanced Mapping with Evidential Learning in Confined Environments**
+
+  **Y Shi**, N Dengler, J Mücke, S Pan, R Rayyes, M Bennewitz
+
+  *ICRA 2026 Workshop on "Act to Sense to Act Better: Learning and Representations for Active Perception in Manipulation"* (**最佳海报奖**)
+  [[链接]](https://openreview.net/pdf?id=lqLvPGM6NH) <strong><span class='show_paper_citations' data-title='Multi-Skill Manipulation-Enhanced Mapping with Evidential Learning in Confined Environments' data-label='引用'></span></strong>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/RSS_best_paper_award.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -196,7 +213,7 @@ redirect_from:
 - **Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects**
   **Y Shi**, AV Ngo, R Rayyes
   *RSS 2024 Workshop on "Open-Set Robot Perception in the Wild"* (**最佳论文奖**)
-  [[链接]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf)
+  [[链接]](https://www.researchgate.net/profile/Rania-Rayyes/publication/386159923_Enhancing_Robotic_Grasping_with_Uncertainty-Aware_Exploration_for_Unseen_Objects/links/6746d984f309a268c00f195b/Enhancing-Robotic-Grasping-with-Uncertainty-Aware-Exploration-for-Unseen-Objects.pdf) <strong><span class='show_paper_citations' data-title='Enhancing Robotic Grasping with Uncertainty-Aware Exploration for Unseen Objects' data-label='引用'></span></strong>
 
 </div>
 
