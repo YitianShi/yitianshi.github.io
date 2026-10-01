@@ -21,8 +21,6 @@ I am **Yitian Shi** (施逸天), PhD candidate at the [Institute for Material Ha
 
 My research interests include robotic grasp learning, robotic manipulation systems and uncertainty estimation.
 
-My publications have received <a href="https://scholar.google.com/citations?user=DqU2TTEAAAAJ"><strong><span id="total_cit">...</span></strong> Google Scholar citations</a>.
-
 # 🤖 Highlights
 <div style="text-align: center;">
   <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">

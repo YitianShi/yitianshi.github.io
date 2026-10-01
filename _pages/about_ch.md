@@ -20,8 +20,6 @@ redirect_from:
 
 我的研究兴趣主要集中在**机器人抓取学习**、**机器人操纵系统**以及**不确定性估计**。
 
-我的论文已获得 <a href="https://scholar.google.com/citations?user=DqU2TTEAAAAJ">Google Scholar 引用 <strong><span id="total_cit">...</span></strong> 次</a>。
-
 # 🤖 研究亮点
 <div style="text-align: center;">
   <img src="/images/icra25.gif" alt="Real world grasping with vMF-Contact from ICRA25" title="vMF-Contact from ICRA25" style="max-width: 90%; height: auto;">

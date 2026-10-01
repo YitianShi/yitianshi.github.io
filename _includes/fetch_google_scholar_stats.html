@@ -8,7 +8,11 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitationElement = document.getElementById('total_cit')
             if (totalCitationElement && data['citedby'] !== undefined) {
-                totalCitationElement.textContent = data['citedby']
+                var displayedTotal = parseInt(totalCitationElement.textContent, 10)
+                var fetchedTotal = parseInt(data['citedby'], 10)
+                if (isNaN(displayedTotal) || fetchedTotal >= displayedTotal) {
+                    totalCitationElement.textContent = fetchedTotal
+                }
             }
 
             var publications = data['publications'] || {}
